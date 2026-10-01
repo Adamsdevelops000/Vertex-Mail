@@ -1,7 +1,6 @@
 # Vertex Mail
 **Mail** others *Differently*
 
-# Vertex Mail
 
 **Vertex Mail** is a free, **open-source, browser-based IMAP email client** written in PHP and JavaScript. It provides a modern, desktop-like user interface for managing standard server-side email. 
 
