@@ -1,2 +1,3 @@
-# Vertex-Mail
-Mail others Differently
+# Vertex Mail
+**Mail** others *Differently*
+
